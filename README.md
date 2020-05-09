@@ -1,0 +1,2 @@
+# LearnDataStructures
+This project helps to understand Data Structures
